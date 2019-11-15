@@ -1,6 +1,6 @@
 package maxmin;
 import java.util.Scanner;
-public class A {	
+public class Array1{	
 	public static void main(String[] args)
 	{
 		Scanner o = new Scanner(System.in);
